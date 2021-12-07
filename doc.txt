@@ -1,0 +1,17 @@
+'''
+Elimination Tournament
+ A tournament where winner is decided by eliminating a competitor every match and
+  where competitors compete in a 1v1 manner (like a chess or badminton tournament)
+
+f̵o̵r̵ ̵n̵o̵w̵,̵ ̵n̵ ̵i̵s̵ ̵t̵h̵e̵ ̵n̵u̵m̵b̵e̵r̵ ̵o̵f̵ ̵i̵n̵p̵u̵t̵ ̵t̵h̵a̵t̵ ̵i̵s̵ ̵s̵u̵p̵p̵o̵r̵t̵e̵d̵.̵
+̵ ̵ ̵ ̵ ̵n̵ ̵c̵a̵n̵ ̵b̵e̵ ̵o̵f̵ ̵t̵h̵e̵ ̵f̵o̵r̵m̵ ̵2̵^̵x̵ ̵,̵ ̵w̵h̵e̵r̵e̵ ̵x̵ ̵i̵s̵ ̵0̵,̵1̵,̵2̵,̵3̵.̵.̵.̵
+
+
+
+1. No of levels
+  can be calculated based on 
+
+
+'''
+
+
